@@ -28,7 +28,7 @@
 =====================================
 */
 .mt-60{
-    margin-top: 60px;
+    margin-top: 60px!important;
 }
 body{
     font-family: 'Roboto', sans-serif;
